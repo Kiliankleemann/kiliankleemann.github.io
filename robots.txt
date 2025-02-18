@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://kiliankleemann.github.io/sitemap.xml
+User-agent: * Disallow: Sitemap: https://kilian-kleemann.info/sitemap.xml
