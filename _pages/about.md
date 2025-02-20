@@ -25,10 +25,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome to my online portfolio and website, where i aggregate works, projects and share thought and comments. I'm currently doing my PhD in bioinformatics at Bonn University and focus on transposable elements in Alzheimer Disease. 
+Welcome to my online portfolio, where i aggregate works, projects and share thought and comments. I'm currently doing my PhD in bioinformatics at Bonn University and focus on transposable elements in Alzheimer Disease. 
 
-I am enthusiastic about microglia and their role in Alzheimer Disease. My bioinformatic work focuses on high-dimensional data analysis including bulk and single cell RNA sequencing, as well as ChIP and ATAC sequencing. 
+I am enthusiastic about microglia and their role in Alzheimer Disease 🧠. My bioinformatic work focuses on high-dimensional data analysis including bulk and single cell RNA sequencing, as well as ChIP and ATAC sequencing 🧬. 
 
-Check out my [publications page](/al-folio/publications/) record where I also showcase the analysis I have done automatically.
+My reserach career so far started with my bachelor in Glasgow 🏴󠁧󠁢󠁳󠁣󠁴󠁿 - during which I did research internships at the German Center for Neurodegeneration (DZNE) 🇩🇪 and in Glasgow. I then went on to do research in bioinformatics in Boston 🇺🇸 and also did my master in data analytics. During my PhD in Bonn so far I have also established research cooperation with Tongji University in Shanghai 🇨🇳 and conducted a 3 month research exchange in autum of 2024. Check out more highlights in my [blog page](/kilian-kleemann.info/blog/) and my [projects](/kilian-kleemann.info/projects/) about my differnet research experiences across the globe. 🌏
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Check out my [publications page](/kilian-kleemann.info/publications/) record where I also showcase the analysis I have done.
