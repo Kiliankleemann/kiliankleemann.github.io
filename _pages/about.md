@@ -2,14 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>
+subtitle: 
 
 profile:
   align: right
   image: prof_pic_2.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Bonn University</p>
+  more_info:
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -25,10 +24,39 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome to my online portfolio, where i aggregate works, projects and share thought and comments. I'm currently doing my PhD in bioinformatics at Bonn University and focus on transposable elements in Alzheimer Disease. 
+<div class="row">
 
-I am enthusiastic about microglia and their role in Alzheimer Disease 🧠. My bioinformatic work focuses on high-dimensional data analysis including bulk and single cell RNA sequencing, as well as ChIP and ATAC sequencing 🧬. 
+  <div class="col-sm-6">
+    <h5>Academic Positions</h5>
+    <ul>
+      <li>
+        <strong>PhD Candidate</strong><br>
+        Institute of Clinical Pharmacology & Clinical Chemistry (IKCKP), University of Bonn
+      </li>
+      <li>
+        <strong>Research Collaborator</strong><br>
+        Tongji University, Shanghai
+      </li>
+    </ul>
+  </div>
 
-My reserach career so far started with my bachelor in Glasgow 🏴󠁧󠁢󠁳󠁣󠁴󠁿 - during which I did research internships at the German Center for Neurodegeneration (DZNE) 🇩🇪 and in Glasgow. I then went on to do research in bioinformatics in Boston 🇺🇸 and also did my master in data analytics. During my PhD in Bonn so far I have also established research cooperation with Tongji University in Shanghai 🇨🇳 and conducted a 3 month research exchange in autum of 2024. Check out more highlights in my [blog page](/blog/) and my [projects](/projects/) about my different research experiences across the globe. 🌏
+  <div class="col-sm-6">
+    <h5>Research Collaborations</h5>
+    <ul>
+      <li>German Center for Neurodegeneration (DZNE)</li>
+      <li>Butovsky Lab, Brigham & Women’s Hospital / Harvard Medical School</li>
+      <li>Eggen Lab - UMC Groningen</li>
+    </ul>
+  </div>
+
+</div>
+
+Welcome to my research portfolio. I am a PhD candidate in bioinformatics at the University of Bonn, where I study how the immune system responds to aging and Alzheimer’s disease. My work focuses on transposable elements (pieces of DNA that can move within the genome) and how they may activate immune pathways involved in neurodegeneration. To investigate these questions, I analyze large-scale biological datasets, including bulk and single-cell RNA sequencing, as well as other genomic profiling methods.
+
+My path into research began during my Bachelor’s degree at the University of Glasgow, including reserach experience at the German Center for Neurodegenerative Diseases (DZNE). I later conducted research in Boston at Brigham and Women’s Hospital / Harvard Medical School, where I worked in the field of neuroimmunology and strengthened my computational skills. I simoultanously completed a Master’s degree (remote) at the University of Portsmouth in data analytics before starting my doctoral studies.
+
+A key part of my PhD involves a collaboration with Tongji University in Shanghai. I worked three months in 2024 and 2025 on joint projects on microglia, mitochondrial biology, and immune mechanisms in Alzheimer’s disease. This international collaboration has become an important component of my research, connecting computational work with experimental neuroimmunology.
+
+Check out more highlights in my [blog page](/blog/) and my [projects](/projects/) about my different research experiences across the globe. 🌏
 
 Check out my [publications page](/publications/) where you can find my publications with notes regarding my contributions.
